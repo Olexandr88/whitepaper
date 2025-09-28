@@ -14,7 +14,7 @@
 
 <div align="center">
   <!-- License -->
-  <a href="https://github.com/CirclesUBI/whitepaper/blob/main/LICENSE">
+  <a href="https://github.com/CirclesUBI/whitepaper/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/CirclesUBI/whitepaper?style=flat-square&color=%23cc1e66" alt="License" height="18">
   </a>
   <!-- Discourse -->
